@@ -13,8 +13,8 @@ Webappen (Airbean) går ut på att du kan beställa kaffe och få den levererad 
 
 ## VG:
 
-*Väl godkänt (VG) Den studerande har nått samtliga mål i kursen. 
-*Den studerande kan dessutom visa god förståelse för de datalogiska processerna och hur de kan omsättas till relevanta lösningar i pseudokod.
+* Väl godkänt (VG) Den studerande har nått samtliga mål i kursen. 
+* Den studerande kan dessutom visa god förståelse för de datalogiska processerna och hur de kan omsättas till relevanta lösningar i pseudokod.
 
 ## Inlämning
 Lämna in på Awezomo länk till er FigJam senast **23/12 kl 23:59**.
