@@ -11,5 +11,10 @@ Webappen (Airbean) går ut på att du kan beställa kaffe och få den levererad 
 * Lämna in en FigJam där ni har analyserat och ritat upp Airbean utifrån de olika delproceserna (decompisition, pattern recognition, abstraction, algorithm design).
 * Ni kan ha en FigJam med alla fyra delar i men tydligt separerade eller fyra olika filer en för varje delprocess.
 
+## VG:
+
+*Väl godkänt (VG) Den studerande har nått samtliga mål i kursen. 
+*Den studerande kan dessutom visa god förståelse för de datalogiska processerna och hur de kan omsättas till relevanta lösningar i pseudokod.
+
 ## Inlämning
 Lämna in på Awezomo länk till er FigJam senast **23/12 kl 23:59**.
