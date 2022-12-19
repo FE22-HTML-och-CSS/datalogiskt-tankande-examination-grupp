@@ -12,4 +12,4 @@ Webappen (Airbean) går ut på att du kan beställa kaffe och få den levererad 
 * Ni kan ha en FigJam med alla fyra delar i men tydligt separerade eller fyra olika filer en för varje delprocess.
 
 ## Inlämning
-Lämna in på Moodle länk till er FigJam senast **14/12 kl 23:59**.
+Lämna in på Moodle länk till er FigJam senast **23/12 kl 23:59**.
